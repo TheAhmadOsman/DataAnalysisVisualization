@@ -22,11 +22,9 @@ I took this class in Fall 2018. Each folder is an project/exercise of one concep
 
 * Class Work and Notes
 
-## :fire: Inspirations of Data Analysis and Visualization - DS320 :boom:
+## [:moneybag: Best Car Deal :car:](https://github.com/Ahmad-Magdy-Osman/BestCarDeal/)
 
-### [:moneybag: Best Car Deal :car:](https://github.com/Ahmad-Magdy-Osman/BestCarDeal/)
-
-**Scraping, Visualizing, and Analyzing 1,700,000 Entries of Used Cars for Sale on Craigslist to Find The Best Car Deal**
+**:fire: Scraping, Visualizing, and Analyzing 1,700,000 Entries of Used Cars for Sale on Craigslist to Find The Best Car Deal :boom:**
 
 * [Findings, Analysis, and Visualization](https://ahmadosman.com/BestCarDeal/)
  
